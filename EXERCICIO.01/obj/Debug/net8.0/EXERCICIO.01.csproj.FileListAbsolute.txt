@@ -1,0 +1,14 @@
+C:\Users\Fernando\Desktop\EXERCICIO.01\bin\Debug\net8.0\EXERCICIO.01.exe
+C:\Users\Fernando\Desktop\EXERCICIO.01\bin\Debug\net8.0\EXERCICIO.01.deps.json
+C:\Users\Fernando\Desktop\EXERCICIO.01\bin\Debug\net8.0\EXERCICIO.01.runtimeconfig.json
+C:\Users\Fernando\Desktop\EXERCICIO.01\bin\Debug\net8.0\EXERCICIO.01.dll
+C:\Users\Fernando\Desktop\EXERCICIO.01\bin\Debug\net8.0\EXERCICIO.01.pdb
+C:\Users\Fernando\Desktop\EXERCICIO.01\obj\Debug\net8.0\EXERCICIO.01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\EXERCICIO.01\obj\Debug\net8.0\EXERCICIO.01.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\EXERCICIO.01\obj\Debug\net8.0\EXERCICIO.01.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\EXERCICIO.01\obj\Debug\net8.0\EXERCICIO.01.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\EXERCICIO.01\obj\Debug\net8.0\EXERCICIO.01.dll
+C:\Users\Fernando\Desktop\EXERCICIO.01\obj\Debug\net8.0\refint\EXERCICIO.01.dll
+C:\Users\Fernando\Desktop\EXERCICIO.01\obj\Debug\net8.0\EXERCICIO.01.pdb
+C:\Users\Fernando\Desktop\EXERCICIO.01\obj\Debug\net8.0\EXERCICIO.01.genruntimeconfig.cache
+C:\Users\Fernando\Desktop\EXERCICIO.01\obj\Debug\net8.0\ref\EXERCICIO.01.dll
